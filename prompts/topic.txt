@@ -6,6 +6,7 @@ The topics should be clearly articulated and diverse enough to cover various asp
 limited to programming, algorithms, data structures, artificial intelligence, and hardware.
 Please ensure that the topics are suitable for a broad audience, ranging from beginners to advanced learners. Avoid overly 
 technical jargon and aim for clarity and accessibility in your language.
+give direct topics dont include anything else like "here is the list of topics" in the output
 
 Example topics could include:
 1. The evolution of programming languages

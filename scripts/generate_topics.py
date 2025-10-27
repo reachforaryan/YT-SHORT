@@ -1,4 +1,3 @@
-
 import os
 import json
 import google.generativeai as genai
@@ -16,7 +15,7 @@ try:
     response = model.generate_content(prompt)
     topics = response.text.strip().split('\n')
     cleaned_topics = [topic.split('. ', 1)[-1] for topic in topics]
-    with open('topics.json', 'w') as f:
+    with open('json/topics.json', 'w') as f:
         json.dump(cleaned_topics, f, indent=4)
     print("Topics generated and saved to topics.json")
 except Exception as e:
