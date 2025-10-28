@@ -1,0 +1,13 @@
+Hello Cuckers I am Prof. Cuck the Duck, and today we're diving into 'Designing for Delight' – or as I like to call it, 'How Not to Make Humans Cry While Using an App.' [Smug] Because apparently, just *working* isn't enough for you lot anymore, is it?
+
+[Angry] Listen up, you gooned-out, perpetually confused creatures! 'Delight' isn't some mystical wizardry. It's literally just making technology intuitive and enjoyable. For *you*. Because otherwise, you'd freak out and start tweeting about how the 'delete' button is too subtle. My duck brain is fried trying to comprehend your low-attention spans.
+
+[Smug] The 'science' part? That's just UX psychology 101, bro. Like, don't make the user guess what a button does. That's it. It’s about reducing cognitive load – stopping your tiny human brains from melting when presented with more than three options. We're talking basic principles that prevent you from doomscrolling past the 'submit' button because your brain went offline. [Angry] I swear, some of you would literally reinvent the scrollbar and call it innovation.
+
+[Happy] And the 'art' of it? Oh, that’s where the little dopamine hits come in. The subtle animation when something loads, the satisfying *thwip* sound, the perfectly placed confirmation message that makes you feel like you've achieved something monumental just by clicking 'OK'. It’s like giving a small treat to a dog. Except the dog is you, and the treat is not having a mental breakdown over your goofy ahh AI assistant. [Sad] It's like I'm a digital zookeeper, and you're the animals.
+
+[Angry] Honestly, I’ve had enough of this human nonsense. I signed up to teach advanced distributed systems, not to explain why a button should *look* like a button! [Sad] My webbed feet are tired from waddling through your user flows. This educational duck life is not what it's quacked up to be.
+
+[Smug] So, next time you're using an app that doesn't make you want to throw your device across the room, thank a designer who probably read this lecture. Because without them, you’d all be stuck in CLI hell. You’re welcome.
+
+Cuck the Duck is out.
